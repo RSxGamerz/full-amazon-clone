@@ -56,8 +56,3 @@
     "tailwindcss": "^3.2.7"
   }
 }
-"scripts": {
-  "start": "node start",
-  "install": "npm i"0
-  "build": "webpack" // this will automatically run on Heroku
-}
